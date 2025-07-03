@@ -7,6 +7,8 @@ if thursday, then, "shahi paneer aar aalo-ka-paratha 🍛"
 if friday, then, "chicken egg rolls 😎"
 if saturday, then, "aaloo-posto aar luchi 😋 "
 if sunday, then, "chicken biriyani 🔥"
+
+random lines added !!!!!!!!!
 '''
 
 day = input("Enter day: ").lower()
@@ -19,7 +21,7 @@ elif day == "wednesday":
 elif day == "thursday":
     print("shahi paneer aar aalo-ka-paratha 🍛")
 elif day == "friday":
-    print("chicken egg rolls 😎")
+    print("Malai kofta")
 elif day == "saturday":
     print("aaloo-posto aar luchi 😋 ")
 elif day == "sunday":

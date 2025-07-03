@@ -11,10 +11,10 @@ rating = float(input("Movie rating (out of 5): "))
 if rating == 5:
     print("Bhai masterpiece dekh liya 🔥")
 elif rating >= 4:
-    print("Bhai badiya movie thi 👌")
+    print("Bhai badiya movie thi 👌. Adding some random text.")
 elif rating >= 3:
     print("Theek thaak thi, timepass 😐")
 elif rating >= 2:
-    print("Meh! Bore ho gaya yaar 😴")
+    print("Meh! Bore ho gaya yaar 😴. Ghum peye gache. Aar khide legeche.")
 else:
     print("Mat dekhna bhai, time barbaad 🚫")
